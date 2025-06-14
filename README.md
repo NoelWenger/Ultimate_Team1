@@ -1,6 +1,6 @@
 # Ultimate Team Football Pack Game ⚽🎮
 
-Ein Quiz-basiertes Unity-Spiel, bei dem man Fußballfragen beantwortet, Punkte sammelt und virtuelle Packs mit Spielern öffnet.
+Ein Quiz-basiertes Unity-Spiel, bei dem man Fussballfragen beantwortet, Punkte sammelt und virtuelle Packs mit Spielern öffnet.
 
 ## 📦 Installation
 
@@ -11,7 +11,7 @@ Ein Quiz-basiertes Unity-Spiel, bei dem man Fußballfragen beantwortet, Punkte s
 
 ## ▶️ Features
 
-- Fußball-Quiz mit Punktesystem
+- Fussball-Quiz mit Punktesystem
 - Packs mit Seltenheiten: Icon, Gold, Rare
 - Inventar / Galerie der gezogenen Spieler
 - JSON-basierte Datenverwaltung
@@ -21,4 +21,4 @@ Ein Quiz-basiertes Unity-Spiel, bei dem man Fußballfragen beantwortet, Punkte s
 - Unity
 - .NET Framework (automatisch mit Unity installiert)
 
-Viel Spaß beim Öffnen deiner ersten Packs! 🎉
+Viel Spass beim Öffnen deiner ersten Packs! 🎉
